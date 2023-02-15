@@ -1,0 +1,5 @@
+msgid "wants to follow you"
+msgstr "quer te seguir"
+
+msgid "is following you"
+msgstr "está seguindo você"

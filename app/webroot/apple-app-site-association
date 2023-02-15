@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2BT3969WFH.com.batalhafunk.app",
+                "paths": [ "/songs/*", "/battles/*"]
+            }
+        ]
+    }
+}
